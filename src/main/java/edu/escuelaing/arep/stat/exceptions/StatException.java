@@ -11,7 +11,7 @@ public class StatException extends Exception{
 	/**
 	 * Instantiates a new stat exception.
 	 *
-	 * @param message Mensaje de la excepción a ser lanzada.
+	 * @param message Mensaje de la excepcion a ser lanzada.
 	 */
 	public StatException(String message) {
 		super(message);
