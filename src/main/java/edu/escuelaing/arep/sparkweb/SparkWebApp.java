@@ -1,9 +1,6 @@
 package edu.escuelaing.arep.sparkweb;
 
 import static spark.Spark.*;
-
-import java.util.ArrayList;
-
 import edu.escuelaing.arep.stat.Stat;
 import edu.escuelaing.arep.util.LinkedList;
 import spark.QueryParamsMap;
