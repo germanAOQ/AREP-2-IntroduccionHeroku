@@ -36,7 +36,7 @@ public class Node<E> {
 	/**
 	 * Checks for next.
 	 *
-	 * @return true, si la ejecución del método fue existosa, es decir, si el nodo tiene un siguiente nodo no nulo.
+	 * @return true, si la ejecucion del metodo fue existosa, es decir, si el nodo tiene un siguiente nodo no nulo.
 	 */
 	public boolean hasNext() {
 		boolean res = false;

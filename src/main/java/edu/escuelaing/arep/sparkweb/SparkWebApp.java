@@ -6,7 +6,7 @@ import edu.escuelaing.arep.util.LinkedList;
 import spark.QueryParamsMap;
 
 /**
- * @author Germán Ospina
+ * @author German Ospina
  *
  */
 public class SparkWebApp {
