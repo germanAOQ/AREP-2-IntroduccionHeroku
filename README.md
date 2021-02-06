@@ -16,7 +16,7 @@ Para hacer uso del software es necesario tener instalado:
 ### Instalación
 Una vez clonado el proyecto, en la carpeta donde hayamos hecho el procedimiento, abrimos la shell del sistema operativo en la que estemos y accedemos al directorio de este
 ```
-cd FirstProjectAREP2020-1
+AREP-2-IntroduccionHeroku
 ```
 Ejecutamos la fase **package**, la cual ejecutara las fases previas del ciclo de vida: **validate, compile y test** y empaquetará el código ya compilado en un formato que se le haya especificado en el archivo de configuración, POM.xml
 ```
